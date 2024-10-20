@@ -1,0 +1,50 @@
+*{
+    padding: 1px;
+    margin: 1px;
+}
+.full-card{
+    background-color: aquamarine;
+}
+
+
+.main-card{
+    width: 590px;
+    height: 570px;
+    border-radius: 10px;
+    margin: 2% 0 0 30%;
+    background-color: ghostwhite;
+
+}
+
+.topic{
+    text-align: center;
+    color: rgb(55, 147, 147);
+    padding-top: 50px;
+    
+}
+
+.email-id{
+    width: 400px;
+    height: 40px;
+    margin: 100px 140px 0 80px;
+}
+
+.password-name{
+    width: 400px;
+    height: 40px;
+    margin: 50px 140px 20px 80px;
+}
+
+.check-box{
+    margin-left: 80px;
+}
+
+.button-card{
+    background-color: rgb(20, 140, 34);
+    border: 1px;
+    color: rgb(99, 190, 218);
+    border-radius: 80px;
+    width: 60px;
+    height: 20px;
+    margin: 70px 100px 20px 200px;
+}
